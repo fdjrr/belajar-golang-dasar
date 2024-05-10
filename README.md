@@ -16,7 +16,7 @@ $ ./hello-world.go
 ## Init Go Mod
 
 ```
-$ go mot init project-name
+$ go mod init project-name
 ```
 
 Reference (YouTube) : [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw)
